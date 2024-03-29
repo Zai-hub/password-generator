@@ -7,10 +7,15 @@ The password generator is designed for use by employees when creating new passwo
 The following images show how the code works: 
 
 ![character length](./assets/character-lenght.png)
+###
 ![special characters](./assets/special-character.png)
+###
 ![numbers](./assets/number.png)
+###
 ![lowercase](./assets/lowecase.png)
+###
 ![uppercase](./assets/uppercase.png)
+###
 ![results](./assets/results.png)
 
 ## Features:
