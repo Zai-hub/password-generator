@@ -27,7 +27,7 @@ The password generator is unique in that it provides high security passwords wit
 - special character.
 
 ## Links
-[Github reposatory](https://github.com/Zai-hub/password-generator)
+[Github repository](https://github.com/Zai-hub/password-generator)
 ###
 [Deployment Link](file:///Users/zainabtouati/Desktop/bootcamp/password-generator/starter/index.html)
 
