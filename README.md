@@ -19,7 +19,12 @@ The following images show how the code works:
 ![results](./assets/results.png)
 
 ## Features:
-The password generator is unique in that it provides high security passwords with a length between 8 to 128 characters. It also provides a password with a lowercase letter, uppercase letter, number and a special character.
+The password generator is unique in that it provides high security passwords with: 
+- a length between 8 to 128 characters 
+- lowercase letter
+- uppercase letter
+- number
+- special character.
 
 ## Links
 [Github reposatory](https://github.com/Zai-hub/password-generator)
